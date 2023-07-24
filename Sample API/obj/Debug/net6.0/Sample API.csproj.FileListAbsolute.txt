@@ -1,0 +1,41 @@
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\appsettings.Development.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\appsettings.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Sample API.exe
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Sample API.deps.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Sample API.runtimeconfig.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Sample API.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Sample API.pdb
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Npgsql.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.csproj.AssemblyReference.cache
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.AssemblyInfoInputs.cache
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.AssemblyInfo.cs
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.csproj.CoreCompileInputs.cache
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.MvcApplicationPartsAssemblyInfo.cs
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.MvcApplicationPartsAssemblyInfo.cache
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\scopedcss\bundle\Sample API.styles.css
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.csproj.CopyComplete
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\refint\Sample API.dll
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.pdb
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\Sample API.genruntimeconfig.cache
+C:\Task Details\CONSOLE APP\Sample API\Sample API\obj\Debug\net6.0\ref\Sample API.dll
